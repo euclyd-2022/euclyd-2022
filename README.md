@@ -2,6 +2,7 @@
 - Portolio -https://euclyd-2022.github.io/
 - 👀 I’m interested in inproving my programming skills
 - 🌱 I’m currently learning Python and React.js
+- https://replit.com/@PaulCross
 - Udemy - 100 days of Code: The Complete Python Pro Bootcamp for 2022 by AppBrewery
 - Udemy - the-complete-web-development-bootcamp by AppBrewery
 - CS50 - introduction to Computer Science (youtube lectures)
